@@ -1,7 +1,7 @@
 {
-  "name": "next-js-boilerplate",
-  "version": "3.64.0",
-  "author": "Ixartz (https://github.com/ixartz)",
+  "name": "storycraft",
+  "version": "1.0.0",
+  "author": "sabib0y (https://github.com/sabib0y)",
   "engines": {
     "node": ">=20"
   },
